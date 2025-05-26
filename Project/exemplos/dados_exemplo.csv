@@ -1,0 +1,52 @@
+nome,renda,historico_credito,idade,tempo_emprego,percentual_dividas,perfil_esperado,setor,estado_civil,dependentes
+Ana Executiva,12000,9,35,8,20,Excelente,Tecnologia,Casada,2
+João Empresário,15000,8,45,15,30,Muito Bom,Comércio,Casado,3
+Maria Professora,5500,7,40,12,25,Bom,Educação,Solteira,1
+Pedro Vendedor,3500,6,30,5,40,Regular,Vendas,Solteiro,0
+Carlos Jovem,2800,4,24,2,60,Risco Médio,Serviços,Solteiro,0
+Julia Estudante,1500,3,22,1,70,Alto Risco,Estágio,Solteira,0
+Roberto Desempregado,1200,2,35,0,90,Muito Alto Risco,Desempregado,Divorciado,2
+Sandra Aposentada,4000,8,65,30,15,Perfil Especial,Aposentada,Viúva,0
+Lucas Freelancer,6000,5,28,3,50,Renda Variável,Tecnologia,Solteiro,0
+Fernanda Médica,18000,9,32,6,35,Alta Renda,Saúde,Casada,1
+Ricardo Engenheiro,9500,7,38,10,22,Bom,Engenharia,Casado,2
+Carla Advogada,11000,8,42,14,18,Muito Bom,Jurídico,Solteira,0
+Marcos Operário,3200,5,29,7,45,Regular,Industrial,Casado,3
+Amanda Consultora,8500,6,33,9,35,Bom,Consultoria,Solteira,0
+Thiago Bancário,7800,8,36,11,28,Bom,Financeiro,Casado,1
+Patricia Enfermeira,4500,7,31,8,32,Bom,Saúde,Casada,2
+Gabriel Estudante,800,1,20,0,85,Muito Alto Risco,Estudante,Solteiro,0
+Helena Gerente,13500,9,44,16,25,Excelente,Administrativo,Casada,2
+Diego Motorista,2800,4,27,4,55,Risco Médio,Transporte,Solteiro,1
+Beatriz Designer,5200,6,29,6,38,Regular,Criativo,Solteira,0
+Gustavo Contador,6800,7,37,12,30,Bom,Contabilidade,Casado,2
+Larissa Jornalista,4800,5,26,3,42,Regular,Comunicação,Solteira,0
+Felipe Policial,5500,8,34,9,20,Bom,Segurança,Casado,2
+Camila Psicóloga,4200,6,30,5,35,Regular,Saúde,Solteira,0
+André Comerciante,8200,6,41,18,40,Regular,Comércio,Casado,3
+Vanessa Secretária,3800,7,32,8,28,Bom,Administrativo,Casada,1
+Bruno Programador,9800,7,27,4,33,Bom,Tecnologia,Solteiro,0
+Cristina Dentista,12500,8,39,13,22,Muito Bom,Saúde,Casada,2
+Eduardo Mecânico,4100,5,35,11,48,Regular,Automotivo,Casado,2
+Isabela Arquiteta,7500,6,31,7,37,Regular,Construção,Solteira,0
+Leonardo CEO,25000,9,48,20,15,Excelente,Executivo,Casado,2
+Juliana Farmacêutica,6200,7,28,4,29,Bom,Saúde,Solteira,0
+Rodrigo Soldador,3600,4,26,3,52,Risco Médio,Industrial,Solteiro,1
+Natália Veterinária,5800,8,33,8,24,Bom,Saúde,Solteira,0
+Fábio Eletricista,4400,6,31,9,36,Regular,Serviços,Casado,2
+Daniela Fisioterapeuta,4900,7,29,5,31,Bom,Saúde,Solteira,0
+Vinicius Garçom,2200,3,23,2,65,Alto Risco,Serviços,Solteiro,0
+Priscila Nutricionista,5100,6,30,6,34,Regular,Saúde,Casada,1
+Rafael Piloto,15500,8,35,8,28,Muito Bom,Aviação,Solteiro,0
+Tatiana Chef,6700,5,32,7,41,Regular,Gastronomia,Solteira,0
+Sergio Bombeiro,5400,8,37,12,19,Bom,Segurança,Casado,2
+Aline Professora Universitária,8900,9,41,15,21,Muito Bom,Educação,Casada,1
+Márcio Taxista,2500,3,39,8,58,Risco Médio,Transporte,Divorciado,2
+Lívia Fisioterapeuta,4600,7,28,4,33,Bom,Saúde,Solteira,0
+Antônio Agricultor,3100,4,42,20,45,Regular,Agropecuário,Casado,4
+Sabrina Esteticista,3900,5,27,3,39,Regular,Beleza,Solteira,1
+Paulo Corretor,7100,6,36,10,32,Regular,Imobiliário,Casado,2
+Mariana Bióloga,5300,7,31,6,27,Bom,Pesquisa,Solteira,0
+Claudio Aposentado,3500,9,68,35,12,Perfil Especial,Aposentado,Casado,0
+Renata Tradutora,4700,6,29,4,36,Regular,Serviços,Solteira,0
+Alessandro Músico,2900,4,25,2,62,Risco Médio,Arte,Solteiro,0
